@@ -1,0 +1,27 @@
+.navbar {
+	padding-left: 50px;
+	padding-right: 30px;
+}
+
+.navbar-brand {
+	font-family: Pacifico;
+	margin-right: 30px;
+}
+
+.hov {
+	color: rgb(202, 201, 201) !important;
+	margin-right: 20px;
+}
+
+.hov:hover {
+	background-color: #646363 !important;
+	color: rgb(255, 255, 255) !important;
+	border-radius: 5px;
+}
+
+@media only screen and (max-width: 767px) {
+	.navbar {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+}

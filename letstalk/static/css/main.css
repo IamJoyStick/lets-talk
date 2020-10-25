@@ -1,0 +1,12 @@
+body {
+	font-family: 'Montserrat';
+}
+
+a {
+	cursor: pointer;
+}
+
+a:hover {
+	color: whitesmoke;
+	text-decoration: none;
+}
